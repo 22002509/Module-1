@@ -29,4 +29,4 @@ print(x)
 
 
 ## RESULT
-Thus the python program for  adding two complex numbers has been implemented and executed successfully.
+Thus, the Python program for evaluating the expression a + b * c - a / b has been implemented and executed successfully.
