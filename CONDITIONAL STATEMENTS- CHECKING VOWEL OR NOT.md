@@ -1,31 +1,40 @@
 ## Experiment No: 4 – Conditional Statements- Checking Vowel or not
 
 ## AIM  
-To Write a Python program to check whether the given character is a vowel or not using if..else statement
+To write a Python program to compute whether a given year is a leap year or not.
 ## ALGORITHM  
-1. Begin the program.  
-2. Take a character input from the user
-3. Convert the character to lowercase
-4. Check if the lowercase character is one of the vowels: 'a', 'e', 'i', 'o', 'u'
-5. If it is a vowel, display "The given character is a vowel"
-6. Otherwise, display "The given character is NOT a vowel"
-4. Terminate the program.
+1.	Get the year from the user as input.
+2.	Check if the year is divisible by 4.
+3.	If the year is divisible by 4, check if it is also divisible by 100.
+4.	If the year is divisible by 100, check if it is divisible by 400.
+5.	If the year is divisible by 400, then it is a leap year.
+6.	If the year is divisible by 4 but not by 100, then it is a leap year.
+7.	Otherwise, it is not a leap year.
+8.	Print the result indicating whether the given year is a leap year or not.
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No-212222040120
+# Name-PRASANNA R
 # Write your code here
 
-char = input("Enter a character: ")
-char_lower = char.lower()
-
-if char_lower in ['a', 'e', 'i', 'o', 'u']:
-    print("The given character is a vowel")
+yr=int(input())
+if yr%100==0:
+    if yr%400==0:
+        print("Given year",yr,"is a leap year")
+    else:
+        print("Given year",yr,"is not a leap year")
 else:
-    print("The given character is NOT a vowel")
+    if yr%4==0:
+        print("Given year",yr,"is a leap year")
+    else:
+        print("Given year",yr,"is not a leap year")
 ```
 
 ## OUTPUT
 
+![LAB1 DAY4 op](https://github.com/user-attachments/assets/8287f72a-4a42-4ea8-bfd6-7784ba52823a)
+
+
 ## RESULT
+Thus, the Python program to compute whether a given year is a leap year or not has been implemented and executed successfully.
