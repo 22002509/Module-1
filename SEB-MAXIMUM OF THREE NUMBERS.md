@@ -33,3 +33,4 @@ print("The maximum of {}, {}, {} is {}".format(a,b,c,max))
 
 
 ## RESULT
+Thus, the implementation of Python programming for numeric base conversion verified successfully.
