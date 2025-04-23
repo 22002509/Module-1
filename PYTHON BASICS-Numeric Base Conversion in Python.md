@@ -28,4 +28,4 @@ print(a,b,c,d)
 
 
 ## RESULT
-
+Thus, the implementation of python programming for numeric Base Conversion verified successfully.
