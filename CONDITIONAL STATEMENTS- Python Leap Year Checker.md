@@ -1,4 +1,4 @@
-## Experiment No: 4 – Conditional Statements- Checking Vowel or not
+## Experiment No: 4 – Conditional Statements- Python Leap Year Checker
 
 ## AIM  
 To write a Python program to compute whether a given year is a leap year or not.
