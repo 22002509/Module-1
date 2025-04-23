@@ -28,4 +28,4 @@ print(a,b,c,d)
 
 
 ## RESULT
-Thus, the implementation of python programming for maximum of three variables verified successfully.
+Thus, the implementation of python programming for numeric base conversion verified successfully.
