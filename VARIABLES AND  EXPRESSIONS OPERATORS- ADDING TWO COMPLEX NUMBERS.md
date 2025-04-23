@@ -1,4 +1,4 @@
-# Experiment No: 3-Varibles and Expressions, Operators - Adding Two Complex Numbers
+# Experiment No: 3-Varibles and Expressions, Operators - Evaluate Expression Using eval() in Python
 
 ## AIM
 To write a Python program to evaluate the expression a + b * c - a / b, and get the user input using the eval() function.
