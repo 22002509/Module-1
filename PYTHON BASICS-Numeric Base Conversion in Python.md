@@ -24,6 +24,7 @@ print(a,b,c,d)
 ```
 ## OUTPUT
 
+![LAB1 DAY1 op](https://github.com/user-attachments/assets/d623dc5a-4af8-45c6-b7e2-69ed61fc1a1d)
 
 
 ## RESULT
